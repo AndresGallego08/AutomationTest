@@ -1,0 +1,8 @@
+[0730/100858.125:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\Usuario\AppData\Local\Temp\scoped_dir3148_1586174602\Crashpad: El sistema no puede encontrar el archivo especificado. (0x2)
+[0730/101018.156:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\Usuario\AppData\Local\Temp\scoped_dir17660_320794075\Crashpad: El sistema no puede encontrar el archivo especificado. (0x2)
+[0730/101118.907:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\Usuario\AppData\Local\Temp\scoped_dir7160_1654168295\Crashpad: El sistema no puede encontrar el archivo especificado. (0x2)
+[0730/101154.237:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\Usuario\AppData\Local\Temp\scoped_dir17164_2130282936\Crashpad: El sistema no puede encontrar el archivo especificado. (0x2)
+[0730/101716.088:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\Usuario\AppData\Local\Temp\scoped_dir7884_1747629650\Crashpad: El sistema no puede encontrar el archivo especificado. (0x2)
+[0730/101752.915:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\Usuario\AppData\Local\Temp\scoped_dir3840_1779371748\Crashpad: El sistema no puede encontrar el archivo especificado. (0x2)
+[0730/102349.102:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\Usuario\AppData\Local\Temp\scoped_dir6504_30781740\Crashpad: El sistema no puede encontrar el archivo especificado. (0x2)
+[0730/104717.966:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\Usuario\AppData\Local\Temp\scoped_dir1340_197910281\Crashpad: El sistema no puede encontrar el archivo especificado. (0x2)
